@@ -1,0 +1,28 @@
+# 00 - Informações da Documentação
+
+## Sistema
+
+AmostraWeb
+
+## Versão da documentação
+
+1.0.2
+
+## Última atualização
+
+01/08/2026
+
+## Autor
+
+Otávio Saturnino da Silva
+
+---
+
+## Histórico de Versões
+
+| Versão | Data | Alterações |
+|---------|------|------------|
+| 1.0.0 | 01/08/2026 | Criação da documentação inicial do projeto. |
+| 1.0.1 | 01/08/2026 | Revisão da modelagem do domínio com separação entre Pedidos e Amostras. Atualização dos documentos 01 ao 07. |
+| 1.0.2 | 01/08/2026 | Criação dos documentos 08 e 09. |
+| 1.0.3 | 23/08/2026 | Atualização dos documentos com inclusão das tables Produtos e Clientes. |
